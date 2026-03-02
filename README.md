@@ -14,7 +14,7 @@ Completely optional
 
 Privacy-safe
 
-**Purpose
+**Purpose**
 
 The goal of this project is to:
 
