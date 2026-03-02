@@ -1,5 +1,5 @@
-🎉 Seton Dance – “This or That?” Game
-Overview
+**🎉 Seton Dance – “This or That?” Game**
+**Overview
 
 This is a lightweight, web-based “This or That?” game designed to add optional, interactive fun around a school dance event.
 
@@ -15,7 +15,7 @@ Completely optional
 
 Privacy-safe
 
-Purpose
+**Purpose
 
 The goal of this project is to:
 
@@ -29,7 +29,7 @@ Demonstrate creative student-led web development
 
 This is not an official school tool. It is a standalone student project built for fun.
 
-Features
+**Features**
 
 6-round “This or That?” format
 
@@ -45,7 +45,7 @@ Simple, clean UI
 
 Privacy & Data Policy
 
-This game:
+**This game:**
 
 Does not collect personal information
 
@@ -57,7 +57,7 @@ Does not require accounts or authentication
 
 All interaction happens locally in the browser.
 
-Technical Details
+**Technical Details**
 
 Built using HTML, CSS, and JavaScript
 
@@ -65,7 +65,7 @@ Designed for static hosting (e.g., GitHub Pages)
 
 Optimized for quick loading and phone usability
 
-Project Philosophy
+**Project Philosophy**
 
 This project reflects an interest in:
 
@@ -77,7 +77,7 @@ Community-based engagement
 
 Safe and responsible student development
 
-Status
+**Status**
 
 Version 1.0
 Standalone optional game
