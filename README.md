@@ -1,5 +1,4 @@
-**🎉 Seton Dance – “This or That?” Game**
-Overview
+**🎉 Seton Dance – “This or That?” Game Overview
 
 This is a lightweight, web-based “This or That?” game designed to add optional, interactive fun around a school dance event.
 
